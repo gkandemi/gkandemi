@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Gökhan
-#### A Software Engineer in living in Turkey for now!
+#### A Software Engineer living in Turkey for now!
 
 - 🔭  I’m currently developing **ERP project** at **PureSOL Company** which is **Canadian Software company**.
 - 🌱  I’m currently learning **Personal Management**
