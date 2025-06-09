@@ -4,7 +4,7 @@
 - 🔭  I’m currently developing **ERP project** at **PureSOL Company** which is **Canadian Software company**.
 - 🌱  I’m currently learning **Personal Management**
 - 💬  Ask me about **Frontend techs, Backend techs, DevOPS techs**
-- 📫  gokhan@puresol.io
+- 📫  gokhan@gkandemir.com
 - 👉  https://gkandemir.com
 - 👉  https://kablosuzkedi.com
 
